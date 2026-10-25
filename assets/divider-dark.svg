@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 20" width="860" height="20" role="presentation" aria-hidden="true">
+<style>.gl{animation:gl 24s cubic-bezier(.45,0,.2,1) infinite}@keyframes gl{0%{transform:translateX(0px);opacity:1}40%{transform:translateX(796px);opacity:1}43%{transform:translateX(796px);opacity:0}43.01%{transform:translateX(0px);opacity:0}48%{transform:translateX(0px);opacity:1}100%{transform:translateX(0px);opacity:1}}@media (prefers-reduced-motion:reduce){.gl{animation:none}}</style>
+<path d="M0 10.5H860M0.5 7V13M40.5 7V13M80.5 7V13M120.5 7V13M160.5 7V13M200.5 7V13M240.5 7V13M280.5 7V13M320.5 7V13M360.5 7V13M400.5 7V13M440.5 7V13M480.5 7V13M520.5 7V13M560.5 7V13M600.5 7V13M640.5 7V13M680.5 7V13M720.5 7V13M760.5 7V13M800.5 7V13M840.5 7V13" fill="none" stroke="#2F2F37" shape-rendering="crispEdges"/>
+<rect x="856" y="8" width="4" height="4" fill="#8B7CFF"/>
+<rect class="gl" x="0" y="8" width="64" height="4" fill="#C6FF3D"/>
+</svg>
